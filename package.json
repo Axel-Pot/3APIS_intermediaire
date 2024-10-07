@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "mongoose": "^8.7.0",
+    "node.js": "^0.0.1-security",
+    "nodemon": "^3.1.7"
+  },
+  "name": "3apis_intermediaire",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Gauvain, Axel",
+  "license": "ISC",
+  "description": "Eval intermédiaire ",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Axel-Pot/3APIS_intermediaire.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Axel-Pot/3APIS_intermediaire/issues"
+  },
+  "homepage": "https://github.com/Axel-Pot/3APIS_intermediaire#readme"
+}
